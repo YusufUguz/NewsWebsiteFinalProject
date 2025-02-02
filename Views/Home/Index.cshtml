@@ -4,16 +4,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="~/css/site.css">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/home-index.css">
 </head>
 
 <body>
+    <div class="content-container">
+        <section id="featured-news-section" class="slider-container">
+            <div class="slider">
+                <img src="~/images/yusufuguzvitrin.jpg" alt="">
+                <img src="~/images/yusufuguzvitrin.jpg" alt="">
+                <img src="~/images/yusufuguzvitrin.jpg" alt="">
+            </div>
 
-    <main>
-        <h1>HOME INDEX</h1>
-    </main>
+            <button class="prev">
+                < </button>
+                    <button class="next"> > </button>
+        </section>
+
+        <section id="news-feed-section" class="news-feed">
+            <div class="row">
+                <h4>
+                    Haber Akışı <i class="fas fa-newspaper"></i>
+                </h4>
+            </div>
+
+            <div class="card mb-3" style="max-width: 65%; margin-top: 15px;">
+                <div class="row g-0">
+                    <div class="col-md-5">
+                        <img src="~/images/yusufuguzvitrin.jpg" class="img-fluid rounded-start" alt="..." style="object-fit: stretch;  height: 100%; width: 100%;">
+                    </div>
+                    <div class="col-md-7">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.</p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="~/js/slider.js"></script>
 
 </body>
 

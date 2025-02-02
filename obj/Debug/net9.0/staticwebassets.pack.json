@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\NewsWebsiteFinalProject.mtcg32bn0z.bundle.scp.css"
     },
     {
+      "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\home-index.css",
+      "PackagePath": "staticwebassets\\css\\home-index.css"
+    },
+    {
       "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -13,8 +17,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\yusufuguzvitrin.jpg",
+      "PackagePath": "staticwebassets\\images\\yusufuguzvitrin.jpg"
+    },
+    {
       "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
     },
     {
       "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\lib\\bootstrap\\LICENSE",
