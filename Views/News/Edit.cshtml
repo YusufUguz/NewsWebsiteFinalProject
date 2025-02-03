@@ -1,0 +1,40 @@
+@model News    
+
+<div class="container mt-4">
+<h2>Haberi Güncelle</h2>
+<hr>
+<form asp-action="Edit" asp-controller="News" method="post" class="pb-5">
+    <input type="hidden" asp-for="NewsID">
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <input asp-for="Description" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Content" class="form-label"></label>
+        <input asp-for="Content" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ImageURL" class="form-label"></label>
+        <input asp-for="ImageURL" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for="CategoryID" class="form-label"></label>
+        <input asp-for="CategoryID" class="form-control" type="number" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for="PublishDate" class="form-label"></label>
+        <input asp-for="PublishDate" class="form-control" type="datetime-local" required>
+    </div>
+    <div class="mb-3 form-check">
+    <input asp-for="IsFeatured" class="form-check-input">
+    <label asp-for="IsFeatured" class="form-check-label"></label>
+    </div>
+
+    <button type="submit" class="btn btn-secondary">Güncelle</button>
+</form>
+</div>
+

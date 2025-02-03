@@ -6,8 +6,10 @@ namespace NewsWebsiteFinalProject.Models{
         public string? Content {get;set;}
         public string? ImageURL {get;set;}
         public int CategoryID {get;set;}
-        public DateTime publishDate {get;set;}
+        public DateTime PublishDate {get;set;}
         public bool IsFeatured {get;set;}
+
+        public Category? Category { get; set; }
 
     }
 }

@@ -51,3 +51,12 @@ body {
   text-align: center;
   padding: 20px;
 }
+.add-news-btn {
+  color: white;
+  border-color: white;
+}
+
+.add-news-btn:hover {
+  color: black;
+  background-color: white;
+}

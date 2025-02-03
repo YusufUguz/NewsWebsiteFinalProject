@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@{
+    var categories = ViewData["Categories"] as List<NewsWebsiteFinalProject.Models.Category>;
+}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -23,13 +27,11 @@
                             KATEGORİLER
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Teknoloji</a></li>
-                            <li><a class="dropdown-item" href="#">Bilgisayar</a></li>
-                            <li><a class="dropdown-item" href="#">Araba</a></li>
-                            <li><a class="dropdown-item" href="#">Yazılım</a></li>
-                            <li><a class="dropdown-item" href="#">Telefon</a></li>
-                            <li><a class="dropdown-item" href="#">Oyun</a></li>
-
+                            @if(categories != null){
+                                @foreach(var category in categories){
+                                <li><a class="dropdown-item" href="#">@category.CategoryName</a></li>
+                                }
+                            }                                                   
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -39,6 +41,7 @@
                 </ul>
 
                 <ul class="navbar-nav">
+                    <a asp-controller="News" asp-action="Create" type="button" class="btn btn-outline-dark add-news-btn">Haber Ekle</a>
                     <li class="nav-item">
                         <a href="#" class="nav-link"><i class="fab fa-facebook-f"></i></a>
                     </li>

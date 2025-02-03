@@ -6,32 +6,60 @@
     max-width: 100%;
     margin: 20px auto;
 }
-.slider-container{
+.slider-container {
     position: relative;
-    width: 100%;
-    max-width: 75%;
-    max-height: 500px;
+    max-width: 80%;
+    height: 550px;
     overflow: hidden;
     border: 2px solid #ddd;
     border-radius: 10px;
     background-color: #fff;
-    justify-content: center;
-    margin: 20px auto;
-    align-items: center;
-    display: flex;      
+    margin: 10px auto;
 }
-.slider{
+
+.slider-wrapper {
+    overflow: hidden;
+    width: 100%;
+}
+
+.slider {
     display: flex;
     transition: transform 0.5s ease-in-out;
-
-}.slider img{
     width: 100%;
-    border-right: 2px solid #ddd;
 }
-.prev, .next{
+
+.slide {
+    min-width: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+
+.image-container {
+    position: relative;
+    width: 100%;
+    height: 550px;
+}
+
+.image-container img {
+    width: 100%;
+    height: 550px;
+    display: block;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 15px;
+}
+
+.prev,
+.next {
     position: absolute;
     top: 50%;
-    transform: translateY(-50%)  ;
+    transform: translateY(-50%);
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     border: none;
@@ -40,27 +68,35 @@
     font-size: 24px;
     border-radius: 50%;
 }
-.prev{
+
+.prev {
     left: 10px;
-}.next{
+}
+
+.next {
     right: 10px;
 }
-.prev:hover, .next:hover{
+
+.prev:hover,
+.next:hover {
     background-color: rgba(0, 0, 0, 0.8);
 }
+
 .news-feed {
-    max-width: 75%;
+    max-width: 80%;
     margin: 10px auto;
     width: 100%;
 }
-.news-feed h4{
+
+.news-feed h4 {
     display: flex;
     align-items: center;
     gap: 10px;
     font-weight: bold;
-    font-size: 24px;        
+    font-size: 24px;
 }
+
 .news-feed i {
-font-size: 24px; 
-color: #2196F3; 
+    font-size: 24px;
+    color: #2196F3;
 }
