@@ -1,0 +1,69 @@
+@model List<News>
+
+</News>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/home-index.css">
+</head>
+
+<style>
+    h1{margin: 20px;}
+</style>
+
+<body>
+
+    @if (Model.Count == 0)
+        {
+            <h2>Bu kategoride haber bulunmamaktadır.</h2>
+        }
+        else{
+            @foreach (var news in Model)
+    {
+        
+          <h1>@news.Category!.CategoryName Haberleri</h1>
+            <br>
+            <div class="card mb-3" style="height:165px; max-width: 65%; margin: 15px 30px 15px 30px; overflow: hidden;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="@news.ImageURL" class="img-fluid rounded-start" alt="@news.Title"
+                            style="object-fit: cover; height: 165px;">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body d-flex flex-column justify-content-between" style="height: 100%;">
+                            <h5 class="card-title" style="font-family: Arial, Helvetica, sans-serif;">
+                                <a href="@Url.Action("Index", "NewsDetails", new { newsID = news.NewsID})"
+                                    style="text-decoration: none; color: inherit;">
+                                    <strong>@news.Title</strong>
+                                </a>
+                            </h5>
+
+                            <a type="button" class="btn btn-primary"
+                                style="width: fit-content;">@news.Category!.CategoryName</a>
+
+                            <div class="d-flex justify-content-between align-items-center">
+
+                                <small class="text-body-secondary">@news.PublishDate.ToString("dd/MM/yyyy HH:MM")</small>
+
+                                <div>
+                                    <a href="/News/Edit/@news.NewsID" class="btn btn-warning btn-sm">
+                                        <i class="fas fa-edit" style="color: white; font-size: 16px;"></i>
+                                    </a>
+                                    <a href="/News/Delete/@news.NewsID" class="btn btn-danger btn-sm">
+                                        <i class="fas fa-trash" style="color: white; font-size: 16px;"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>     
+    }
+}
+    
+</body>
+
+</html>

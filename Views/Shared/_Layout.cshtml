@@ -1,7 +1,4 @@
-﻿@{
-    var categories = ViewData["Categories"] as List<NewsWebsiteFinalProject.Models.Category>;
-}
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,15 +24,13 @@
                             KATEGORİLER
                         </a>
                         <ul class="dropdown-menu">
-                            @if(categories != null){
-                                @foreach(var category in categories){
-                                <li><a class="dropdown-item" href="#">@category.CategoryName</a></li>
-                                }
-                            }                                                   
+                           
+                                @await Component.InvokeAsync("Category")
+                                                                              
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a asp-controller="Home" asp-action="List" class="nav-link">HAKKIMIZDA & ILETIŞIME GEÇIN</MEnu>
+                        <a asp-controller="Home" asp-action="AboutUs" class="nav-link">HAKKIMIZDA & ILETIŞIME GEÇIN</MEnu>
                             </a>
                     </li>
                 </ul>

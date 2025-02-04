@@ -17,7 +17,8 @@ namespace NewsWebsiteFinalProject.Controllers
 
         [HttpGet]
         public IActionResult Create()
-        {
+        {   
+            ViewBag.Categories = _context.Categories.ToList();
             return View();
         }
 
@@ -27,10 +28,12 @@ namespace NewsWebsiteFinalProject.Controllers
 
             _context.News.Add(model);
             await _context.SaveChangesAsync();
+            ViewBag.Categories = _context.Categories.ToList();
             return RedirectToAction("Index","Home");
         }
 
         public async Task<IActionResult> Edit(int? id){
+            ViewBag.Categories = _context.Categories.ToList();
             if(id == null){
                 return NotFound();
             }
@@ -45,6 +48,7 @@ namespace NewsWebsiteFinalProject.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult>Edit(int id, News model){
+            ViewBag.Categories = _context.Categories.ToList();
             if(id != model.NewsID){
                 return NotFound();
             }

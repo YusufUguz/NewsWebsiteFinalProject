@@ -1,0 +1,30 @@
+@model News
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/news-details.css">
+</head>
+<body>
+    <div class="details-container">
+
+        <section id="image-title-section">
+             <h2>@Model.Title</h2>
+             <h5>@Model.Description</h5>
+             <br>
+             <div class="d-flex align-items-center">
+                <a type="button" class="btn btn-primary" style="width: fit-content;">@Model.Category!.CategoryName</a>    
+                <p class="mb-0 ms-4">@Model.PublishDate.ToString("dd/MM/yyyy HH:MM")</p> 
+             </div>
+             <br>               
+             <img src="@Model.ImageURL" alt="">                 
+        </section>
+
+        <section id="content-section">
+            <h5>@Model.Content</h5>
+        </section>
+    </div>
+</body>
+</html>

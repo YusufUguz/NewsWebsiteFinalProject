@@ -1,0 +1,12 @@
+.details-container{
+    margin: 50px 100px 50px 100px;
+}
+
+#image-title-section img{
+    width: 55%;
+    margin-bottom: 30px;
+}
+
+#image-title-section h2{
+    font-weight: bold;
+}

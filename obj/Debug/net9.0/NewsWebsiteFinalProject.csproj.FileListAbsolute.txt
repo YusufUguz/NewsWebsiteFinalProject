@@ -314,7 +314,8 @@ C:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject
 C:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\NewsWebs.27AF2C46.Up2Date
 c:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\compressed\w7krwkia35-3r8b2a0bt1.gz
 c:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\compressed\s5ekqnjfa7-w45xdc8rtb.gz
-c:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\compressed\zfxh2s9vs4-jwhznam03l.gz
 c:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\compressed\dcgubkfvnq-m8f1yrorf9.gz
 c:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\compressed\b7b6mtw1oq-bjkwqpxkne.gz
 c:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\compressed\e3azo9uk8a-bjkwqpxkne.gz
+c:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\compressed\uus2hkzwak-vw9r90vgao.gz
+c:\Users\Yusuf\Desktop\Works\Fullstack Bootcamp Projects\NewsWebsiteFinalProject\obj\Debug\net9.0\compressed\zfxh2s9vs4-s0wvpbl1ye.gz

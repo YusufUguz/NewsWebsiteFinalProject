@@ -20,6 +20,15 @@
                             <div class="image-container">
                                 <img src="@news.ImageURL" alt="@news.Title">
                                 <div class="overlay"></div>
+                                <div class="news-info">
+                                    <span class="category">@news.Category!.CategoryName</span>
+                                    <h3 class="title">
+                                    <a asp-controller="NewsDetails" asp-action="Index" asp-route-newsID="@news.NewsID">
+                                        @news.Title
+                                    </a>
+                                    </h3>
+                                    <span class="date">@news.PublishDate.ToString("dd/MM/yyyy HH:MM")</span>
+                                </div>
                             </div>
                         </div>
                     }
@@ -48,19 +57,25 @@
                         <div class="col-md-8">
                             <div class="card-body d-flex flex-column justify-content-between" style="height: 100%;">
                                 <h5 class="card-title" style="font-family: Arial, Helvetica, sans-serif;">
-                                    <strong>@news.Title</strong></h5>
-                                <a type="button" class="btn btn-primary" style="width: fit-content;">@news.Category!.CategoryName</a>
+                                    <a href="@Url.Action("Index", "NewsDetails", new { newsID = news.NewsID})"
+                                        style="text-decoration: none; color: inherit;">
+                                        <strong>@news.Title</strong>
+                                    </a>
+                                </h5>
+
+                                <a type="button" class="btn btn-primary"
+                                    style="width: fit-content;">@news.Category!.CategoryName</a>
 
                                 <div class="d-flex justify-content-between align-items-center">
-                                    
-                                        <small class="text-body-secondary">@news.PublishDate.ToString("dd/MM/yyyy")</small>
-                                    
+
+                                    <small class="text-body-secondary">@news.PublishDate.ToString("dd/MM/yyyy HH:MM")</small>
+
                                     <div>
                                         <a href="/News/Edit/@news.NewsID" class="btn btn-warning btn-sm">
                                             <i class="fas fa-edit" style="color: white; font-size: 16px;"></i>
                                         </a>
                                         <a href="/News/Delete/@news.NewsID" class="btn btn-danger btn-sm">
-                                          <i class="fas fa-trash" style="color: white; font-size: 16px;"></i>
+                                            <i class="fas fa-trash" style="color: white; font-size: 16px;"></i>
                                         </a>
                                     </div>
                                 </div>

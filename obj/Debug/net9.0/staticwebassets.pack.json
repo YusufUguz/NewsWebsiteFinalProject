@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\home-index.css"
     },
     {
+      "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\news-details.css",
+      "PackagePath": "staticwebassets\\css\\news-details.css"
+    },
+    {
       "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

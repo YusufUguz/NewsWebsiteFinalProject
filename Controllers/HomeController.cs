@@ -16,9 +16,13 @@ public class HomeController : Controller
     public async Task<IActionResult> Index()
     {
         List<News> news = await _context.News.Include(n => n.Category).ToListAsync();
-        List<Category> categories = await _context.Categories.ToListAsync();
-        ViewData["Categories"] = categories;
         return View(news);
+    }
+
+    public  IActionResult AboutUs()
+    {
+    
+        return View();
     }
 
 }

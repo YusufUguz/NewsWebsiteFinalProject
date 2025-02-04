@@ -1,0 +1,6 @@
+@model IEnumerable<Category>
+
+@foreach (var category in Model)
+{
+    <li><a class="dropdown-item" href="@Url.Action("Index", "CategorizedNews", new { categoryID = @category.CategoryID})">@category.CategoryName</a></li>
+}
