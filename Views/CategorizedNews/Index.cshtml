@@ -21,12 +21,12 @@
             <h2>Bu kategoride haber bulunmamaktadır.</h2>
         }
         else
-        {
+        {   
+            <h1>@Model.First().Category!.CategoryName Haberleri</h1>
+            <br>
             @foreach (var news in Model)
             {
-                
-                <h1>@news.Category!.CategoryName Haberleri</h1>
-                <br>
+                               
                 <div class="news-card">
                     @await Html.PartialAsync("_NewsCard", news)    
                 </div>
