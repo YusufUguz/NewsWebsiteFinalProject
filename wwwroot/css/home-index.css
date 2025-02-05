@@ -60,13 +60,18 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: #2196F3; /* Yarı saydam mavi */
     color: white;
     border: none;
-    padding: 10px;
+    padding: 15px;
     cursor: pointer;
     font-size: 24px;
-    border-radius: 50%;
+    border-radius: 50%; /* Tam daire */
+    width: 50px; /* Butonu yuvarlak yapmak için */
+    height: 50px; /* Butonu yuvarlak yapmak için */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .prev {
@@ -79,8 +84,9 @@
 
 .prev:hover,
 .next:hover {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 139, 0.7); /* Daha koyu mavi */
 }
+
 
 .news-feed {
     max-width: 80%;
