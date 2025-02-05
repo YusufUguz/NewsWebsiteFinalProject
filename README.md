@@ -39,13 +39,17 @@ Anasayfa<br />
 ![Anasayfa 2](./readme-images/anasayfa2_1.JPG)<br /><br />
 Haber Ekleme<br />
 ![Haber Ekleme](./readme-images/haberekle_1.JPG)<br /><br />
+![Haber Ekleme](./readme-images/haberekle_1.JPG)<br /><br />
 Haber Güncelleme<br />
 ![Haber Güncelleme](./readme-images/habergüncelle_1.JPG)<br /><br />
+![Haber Güncelleme](./readme-images/habergüncelle_1.JPG)<br /><br />
 Haber Sil<br />
+![Haber Sil](./readme-images/habersil_1.JPG)<br /><br />
 ![Haber Sil](./readme-images/habersil_1.JPG)<br /><br />
 Haber Detayları<br />
 ![Haber Detayları](./readme-images/haberdetaylari_1.JPG)<br /><br />
 Kategorilendirme<br />
+![Kategorilendirme](./readme-images/kategorilendirme_1.JPG)<br /><br />
 ![Kategorilendirme](./readme-images/kategorilendirme_1.JPG)<br /><br />
 
 Bu proje Yusuf Uğuz tarafından geliştirilmiştir. [YusufUguz](https://github.com/YusufUguz)<br />
