@@ -60,3 +60,27 @@ body {
   color: black;
   background-color: white;
 }
+.custom-navbar .navbar-nav {
+  display: flex;
+  align-items: center; /* Dikey olarak ortalar */
+}
+
+.custom-navbar .nav-item {
+  display: flex;
+  align-items: center; /* Dikey olarak ortalar */
+}
+
+.custom-navbar .nav-link {
+  display: flex;
+  align-items: center; /* Dikey olarak ortalar */
+}
+
+.custom-navbar .dropdown-menu {
+  
+  align-items: center; /* Dikey olarak ortalar */
+}
+
+.custom-navbar .add-news-btn {
+  display: flex;
+  align-items: center; /* Dikey olarak ortalar */
+}

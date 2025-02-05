@@ -142,3 +142,6 @@
     color: #2196F3; /* Üzerine gelince farklı bir renk yapabilirsin (isteğe bağlı) */
     text-decoration: underline; /* Hover durumunda altı çizili olabilir */
 }
+.news-card{
+    margin-left: 20px;
+  }

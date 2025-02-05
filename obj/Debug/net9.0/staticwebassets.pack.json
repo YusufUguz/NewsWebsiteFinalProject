@@ -21,8 +21,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\yusufuguzvitrin.jpg",
-      "PackagePath": "staticwebassets\\images\\yusufuguzvitrin.jpg"
+      "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
     },
     {
       "Id": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\js\\site.js",

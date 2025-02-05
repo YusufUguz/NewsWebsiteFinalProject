@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2vAv/k4MnpF/7wB1FbMG6rXbf+2sQeZC+mU1tbRapk0=",
+  "Hash": "T4hLmY0SWwiytyi7DlLUTTcRJDQRbyMfUy3TdQ6Rb44=",
   "Source": "NewsWebsiteFinalProject",
   "BasePath": "_content/NewsWebsiteFinalProject",
   "Mode": "Default",
@@ -542,12 +542,12 @@
       "OriginalItemSpec": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-m8f1yrorf9.gz",
+      "Identity": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-iqcsm6v239.gz",
       "SourceId": "NewsWebsiteFinalProject",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/NewsWebsiteFinalProject",
-      "RelativePath": "css/site#[.{fingerprint=m8f1yrorf9}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=iqcsm6v239}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -556,8 +556,8 @@
       "RelatedAsset": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "yxg3447yxa",
-      "Integrity": "hnxKRtnPnetwC3niLh5+9kQHRWSNpq/zExJZCRv3qh4=",
+      "Fingerprint": "anhn0byshr",
+      "Integrity": "FuWxgqQmMytl4bxJTgVhyn1OekejyB2ObHbqy96wYO0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\site.css"
@@ -1403,12 +1403,12 @@
       "OriginalItemSpec": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-p2f2algd22.gz",
+      "Identity": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-22jl641xdn.gz",
       "SourceId": "NewsWebsiteFinalProject",
       "SourceType": "Discovered",
       "ContentRoot": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/NewsWebsiteFinalProject",
-      "RelativePath": "css/home-index#[.{fingerprint=p2f2algd22}]?.css.gz",
+      "RelativePath": "css/home-index#[.{fingerprint=22jl641xdn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\home-index.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xwarcka7ks",
-      "Integrity": "ASzKb2cOXFY9LlyyDXrdiUJqRz+mQCrQ6qp37CxfqyA=",
+      "Fingerprint": "7nz58orlta",
+      "Integrity": "s5vHzEg0DeEhpWv9YO4QGUPEVKGMwcUJBsP80yUViWM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\home-index.css"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p2f2algd22",
-      "Integrity": "L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg=",
+      "Fingerprint": "22jl641xdn",
+      "Integrity": "RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home-index.css"
@@ -1522,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m8f1yrorf9",
-      "Integrity": "ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA=",
+      "Fingerprint": "iqcsm6v239",
+      "Integrity": "ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1550,12 +1550,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\yusufuguzvitrin.jpg",
+      "Identity": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\logo.png",
       "SourceId": "NewsWebsiteFinalProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\",
       "BasePath": "_content/NewsWebsiteFinalProject",
-      "RelativePath": "images/yusufuguzvitrin#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1564,11 +1564,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7yyvzkazb5",
-      "Integrity": "UQq767xD/YfjSBDGk0HMHWJfN9hfdkZY3vMuy6149Ho=",
+      "Fingerprint": "cmnx6bjsy8",
+      "Integrity": "LAhKOUEg9qW9IB7lvnXAWQ0zj+III3O0M3VQPqchSOY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\yusufuguzvitrin.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\logo2.png",
+      "SourceId": "NewsWebsiteFinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\",
+      "BasePath": "_content/NewsWebsiteFinalProject",
+      "RelativePath": "images/logo2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hnri69i1qd",
+      "Integrity": "fUZSmia/5tdGnMayLBVXpJFl2SAo3PcpDkCJaa+MDCg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo2.png"
     },
     {
       "Identity": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\js\\site.js",
@@ -2875,13 +2896,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/home-index.css",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-p2f2algd22.gz",
+      "Route": "css/home-index.22jl641xdn.css",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-22jl641xdn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001196172249"
+          "Quality": "0.001058201058"
         }
       ],
       "ResponseHeaders": [
@@ -2891,19 +2912,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "835"
+          "Value": "944"
         },
         {
           "Name": "ETag",
-          "Value": "\"ASzKb2cOXFY9LlyyDXrdiUJqRz+mQCrQ6qp37CxfqyA=\""
+          "Value": "\"s5vHzEg0DeEhpWv9YO4QGUPEVKGMwcUJBsP80yUViWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:39:53 GMT"
+          "Value": "Wed, 05 Feb 2025 11:54:36 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2919,18 +2940,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg=\""
+          "Value": "W/\"RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "22jl641xdn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/home-index.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg="
+          "Value": "sha256-RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE="
         }
       ]
     },
     {
-      "Route": "css/home-index.css",
+      "Route": "css/home-index.22jl641xdn.css",
       "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\home-index.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2940,7 +2969,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2499"
+          "Value": "2778"
         },
         {
           "Name": "Content-Type",
@@ -2948,121 +2977,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg=\""
+          "Value": "\"RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:39:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg="
-        }
-      ]
-    },
-    {
-      "Route": "css/home-index.css.gz",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-p2f2algd22.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "835"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ASzKb2cOXFY9LlyyDXrdiUJqRz+mQCrQ6qp37CxfqyA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:39:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ASzKb2cOXFY9LlyyDXrdiUJqRz+mQCrQ6qp37CxfqyA="
-        }
-      ]
-    },
-    {
-      "Route": "css/home-index.p2f2algd22.css",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-p2f2algd22.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001196172249"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "835"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ASzKb2cOXFY9LlyyDXrdiUJqRz+mQCrQ6qp37CxfqyA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:39:53 GMT"
+          "Value": "Wed, 05 Feb 2025 11:54:36 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "p2f2algd22"
+          "Value": "22jl641xdn"
         },
         {
           "Name": "label",
@@ -3070,13 +2999,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg="
+          "Value": "sha256-RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE="
         }
       ]
     },
     {
-      "Route": "css/home-index.p2f2algd22.css",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\home-index.css",
+      "Route": "css/home-index.22jl641xdn.css.gz",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-22jl641xdn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3085,7 +3014,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2499"
+          "Value": "944"
         },
         {
           "Name": "Content-Type",
@@ -3093,56 +3022,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg=\""
+          "Value": "\"s5vHzEg0DeEhpWv9YO4QGUPEVKGMwcUJBsP80yUViWM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:39:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p2f2algd22"
-        },
-        {
-          "Name": "label",
-          "Value": "css/home-index.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-L0kKqU81P6CoFY8yxJKk/4MaK1vVn9KVWurP2rM5/Qg="
-        }
-      ]
-    },
-    {
-      "Route": "css/home-index.p2f2algd22.css.gz",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-p2f2algd22.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "835"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ASzKb2cOXFY9LlyyDXrdiUJqRz+mQCrQ6qp37CxfqyA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 18:39:53 GMT"
+          "Value": "Wed, 05 Feb 2025 11:54:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3160,7 +3044,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "p2f2algd22"
+          "Value": "22jl641xdn"
         },
         {
           "Name": "label",
@@ -3168,7 +3052,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ASzKb2cOXFY9LlyyDXrdiUJqRz+mQCrQ6qp37CxfqyA="
+          "Value": "sha256-s5vHzEg0DeEhpWv9YO4QGUPEVKGMwcUJBsP80yUViWM="
+        }
+      ]
+    },
+    {
+      "Route": "css/home-index.css",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-22jl641xdn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001058201058"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "944"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5vHzEg0DeEhpWv9YO4QGUPEVKGMwcUJBsP80yUViWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE="
+        }
+      ]
+    },
+    {
+      "Route": "css/home-index.css",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\home-index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgYeNl4zfuK8y29VYvtB+VYuIpB6XNtBJDkZaQt5owE="
+        }
+      ]
+    },
+    {
+      "Route": "css/home-index.css.gz",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\zfxh2s9vs4-22jl641xdn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5vHzEg0DeEhpWv9YO4QGUPEVKGMwcUJBsP80yUViWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:54:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5vHzEg0DeEhpWv9YO4QGUPEVKGMwcUJBsP80yUViWM="
         }
       ]
     },
@@ -3472,12 +3493,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-m8f1yrorf9.gz",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-iqcsm6v239.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001821493625"
+          "Quality": "0.001623376623"
         }
       ],
       "ResponseHeaders": [
@@ -3487,15 +3508,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "615"
         },
         {
           "Name": "ETag",
-          "Value": "\"hnxKRtnPnetwC3niLh5+9kQHRWSNpq/zExJZCRv3qh4=\""
+          "Value": "\"FuWxgqQmMytl4bxJTgVhyn1OekejyB2ObHbqy96wYO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:35 GMT"
+          "Value": "Wed, 05 Feb 2025 11:53:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3515,13 +3536,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA=\""
+          "Value": "W/\"ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA="
+          "Value": "sha256-ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA="
         }
       ]
     },
@@ -3536,7 +3557,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1247"
+          "Value": "1752"
         },
         {
           "Name": "Content-Type",
@@ -3544,11 +3565,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA=\""
+          "Value": "\"ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:35 GMT"
+          "Value": "Wed, 05 Feb 2025 11:53:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3558,13 +3579,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA="
+          "Value": "sha256-ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-m8f1yrorf9.gz",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-iqcsm6v239.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3573,7 +3594,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "615"
         },
         {
           "Name": "Content-Type",
@@ -3581,11 +3602,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hnxKRtnPnetwC3niLh5+9kQHRWSNpq/zExJZCRv3qh4=\""
+          "Value": "\"FuWxgqQmMytl4bxJTgVhyn1OekejyB2ObHbqy96wYO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:35 GMT"
+          "Value": "Wed, 05 Feb 2025 11:53:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3603,18 +3624,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hnxKRtnPnetwC3niLh5+9kQHRWSNpq/zExJZCRv3qh4="
+          "Value": "sha256-FuWxgqQmMytl4bxJTgVhyn1OekejyB2ObHbqy96wYO0="
         }
       ]
     },
     {
-      "Route": "css/site.m8f1yrorf9.css",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-m8f1yrorf9.gz",
+      "Route": "css/site.iqcsm6v239.css",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-iqcsm6v239.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001821493625"
+          "Quality": "0.001623376623"
         }
       ],
       "ResponseHeaders": [
@@ -3624,15 +3645,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "615"
         },
         {
           "Name": "ETag",
-          "Value": "\"hnxKRtnPnetwC3niLh5+9kQHRWSNpq/zExJZCRv3qh4=\""
+          "Value": "\"FuWxgqQmMytl4bxJTgVhyn1OekejyB2ObHbqy96wYO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:35 GMT"
+          "Value": "Wed, 05 Feb 2025 11:53:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3652,13 +3673,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA=\""
+          "Value": "W/\"ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m8f1yrorf9"
+          "Value": "iqcsm6v239"
         },
         {
           "Name": "label",
@@ -3666,12 +3687,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA="
+          "Value": "sha256-ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA="
         }
       ]
     },
     {
-      "Route": "css/site.m8f1yrorf9.css",
+      "Route": "css/site.iqcsm6v239.css",
       "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3681,7 +3702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1247"
+          "Value": "1752"
         },
         {
           "Name": "Content-Type",
@@ -3689,11 +3710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA=\""
+          "Value": "\"ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:35 GMT"
+          "Value": "Wed, 05 Feb 2025 11:53:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3703,7 +3724,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m8f1yrorf9"
+          "Value": "iqcsm6v239"
         },
         {
           "Name": "label",
@@ -3711,13 +3732,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZvGUzFjx5ZghWt0dt2tTYaa6W//hyXiV17KtrF4whRA="
+          "Value": "sha256-ek3eT7p3BVxwK+PBFm0Ra8lPPXkL59IB3miTARNIlmA="
         }
       ]
     },
     {
-      "Route": "css/site.m8f1yrorf9.css.gz",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-m8f1yrorf9.gz",
+      "Route": "css/site.iqcsm6v239.css.gz",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\obj\\Debug\\net9.0\\compressed\\dcgubkfvnq-iqcsm6v239.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3726,7 +3747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "548"
+          "Value": "615"
         },
         {
           "Name": "Content-Type",
@@ -3734,11 +3755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hnxKRtnPnetwC3niLh5+9kQHRWSNpq/zExJZCRv3qh4=\""
+          "Value": "\"FuWxgqQmMytl4bxJTgVhyn1OekejyB2ObHbqy96wYO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:35 GMT"
+          "Value": "Wed, 05 Feb 2025 11:53:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3756,7 +3777,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m8f1yrorf9"
+          "Value": "iqcsm6v239"
         },
         {
           "Name": "label",
@@ -3764,7 +3785,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hnxKRtnPnetwC3niLh5+9kQHRWSNpq/zExJZCRv3qh4="
+          "Value": "sha256-FuWxgqQmMytl4bxJTgVhyn1OekejyB2ObHbqy96wYO0="
         }
       ]
     },
@@ -4067,8 +4088,8 @@
       ]
     },
     {
-      "Route": "images/yusufuguzvitrin.7yyvzkazb5.jpg",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\yusufuguzvitrin.jpg",
+      "Route": "images/logo.cmnx6bjsy8.png",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4077,19 +4098,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "269355"
+          "Value": "69149"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"UQq767xD/YfjSBDGk0HMHWJfN9hfdkZY3vMuy6149Ho=\""
+          "Value": "\"LAhKOUEg9qW9IB7lvnXAWQ0zj+III3O0M3VQPqchSOY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 16:54:08 GMT"
+          "Value": "Wed, 05 Feb 2025 11:31:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4099,21 +4120,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7yyvzkazb5"
+          "Value": "cmnx6bjsy8"
         },
         {
           "Name": "label",
-          "Value": "images/yusufuguzvitrin.jpg"
+          "Value": "images/logo.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UQq767xD/YfjSBDGk0HMHWJfN9hfdkZY3vMuy6149Ho="
+          "Value": "sha256-LAhKOUEg9qW9IB7lvnXAWQ0zj+III3O0M3VQPqchSOY="
         }
       ]
     },
     {
-      "Route": "images/yusufuguzvitrin.jpg",
-      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\yusufuguzvitrin.jpg",
+      "Route": "images/logo.png",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4122,19 +4143,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "269355"
+          "Value": "69149"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"UQq767xD/YfjSBDGk0HMHWJfN9hfdkZY3vMuy6149Ho=\""
+          "Value": "\"LAhKOUEg9qW9IB7lvnXAWQ0zj+III3O0M3VQPqchSOY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 16:54:08 GMT"
+          "Value": "Wed, 05 Feb 2025 11:31:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4144,7 +4165,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UQq767xD/YfjSBDGk0HMHWJfN9hfdkZY3vMuy6149Ho="
+          "Value": "sha256-LAhKOUEg9qW9IB7lvnXAWQ0zj+III3O0M3VQPqchSOY="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo2.hnri69i1qd.png",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\logo2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "304484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fUZSmia/5tdGnMayLBVXpJFl2SAo3PcpDkCJaa+MDCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hnri69i1qd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fUZSmia/5tdGnMayLBVXpJFl2SAo3PcpDkCJaa+MDCg="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo2.png",
+      "AssetFile": "c:\\Users\\Yusuf\\Desktop\\Works\\Fullstack Bootcamp Projects\\NewsWebsiteFinalProject\\wwwroot\\images\\logo2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "304484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fUZSmia/5tdGnMayLBVXpJFl2SAo3PcpDkCJaa+MDCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fUZSmia/5tdGnMayLBVXpJFl2SAo3PcpDkCJaa+MDCg="
         }
       ]
     },
@@ -22433,7 +22536,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22494,7 +22597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22539,7 +22642,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22594,7 +22697,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22655,7 +22758,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22700,7 +22803,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22755,7 +22858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22808,7 +22911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22845,7 +22948,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22892,7 +22995,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22945,7 +23048,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22982,7 +23085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 09:10:41 GMT"
+          "Value": "Wed, 05 Feb 2025 13:59:55 GMT"
         },
         {
           "Name": "Cache-Control",

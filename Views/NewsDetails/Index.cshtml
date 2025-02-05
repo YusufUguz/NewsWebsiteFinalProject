@@ -15,7 +15,7 @@
              <h5>@Model.Description</h5>
              <br>
              <div class="d-flex align-items-center">
-                <a type="button" class="btn btn-primary" style="width: fit-content;">@Model.Category!.CategoryName</a>    
+                @await Html.PartialAsync("_CategoryButton", @Model)    
                 <p class="mb-0 ms-4">@Model.PublishDate.ToString("dd/MM/yyyy HH:MM")</p> 
              </div>
              <br>               

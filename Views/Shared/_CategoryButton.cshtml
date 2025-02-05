@@ -1,0 +1,2 @@
+@model News
+<a type="button" href="@Url.Action("Index", "CategorizedNews", new { categoryID = @Model.CategoryID})" class="btn btn-primary" style="width: fit-content;">@Model.Category!.CategoryName</a>
