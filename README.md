@@ -36,17 +36,17 @@ Kullanılan Diller ve Teknolojiler:<br />
 
 Projeden Görseller:<br />
 Anasayfa<br />
-![Anasayfa 1](./readme-images/anasayfa1_1.jpg)<br /><br />
-![Anasayfa 2](./readme-images/anasayfa2_2.jpg)<br /><br />
+![Anasayfa 1](./readme-images/anasayfa1_1.JPG)<br /><br />
+![Anasayfa 2](./readme-images/anasayfa2_2.JPG)<br /><br />
 Haber Ekleme<br />
-![Haber Ekleme](./readme-images/haberekle_1.jpg)<br /><br />
+![Haber Ekleme](./readme-images/haberekle_1.JPG)<br /><br />
 Haber Güncelleme<br />
-![Haber Güncelleme](./readme-images/habergüncelle_1.jpg)<br /><br />
+![Haber Güncelleme](./readme-images/habergüncelle_1.JPG)<br /><br />
 Haber Sil<br />
-![Haber Sil](./readme-images/habersil_1.jpg)<br /><br />
+![Haber Sil](./readme-images/habersil_1.JPG)<br /><br />
 Haber Detayları<br />
-![Haber Detayları](./readme-images/haberdetayları_1.jpg)<br /><br />
+![Haber Detayları](./readme-images/haberdetayları_1.JPG)<br /><br />
 Kategorilendirme<br />
-![Kategorilendirme](./readme-images/kateogirlendirme_1.jpg)<br /><br />
+![Kategorilendirme](./readme-images/kateogirlendirme_1.JPG)<br /><br />
 
 Bu proje Yusuf Uğuz tarafından geliştirilmiştir. [YusufUguz](https://github.com/YusufUguz)<br />
