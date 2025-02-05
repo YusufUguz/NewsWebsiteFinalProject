@@ -47,6 +47,6 @@ Haber Sil<br />
 Haber Detayları<br />
 ![Haber Detayları](./readme-images/haberdetayları_1.JPG)<br /><br />
 Kategorilendirme<br />
-![Kategorilendirme](./readme-images/kateogirlendirme_1.JPG)<br /><br />
+![Kategorilendirme](./readme-images/kategorilendirme_1.JPG)<br /><br />
 
 Bu proje Yusuf Uğuz tarafından geliştirilmiştir. [YusufUguz](https://github.com/YusufUguz)<br />
